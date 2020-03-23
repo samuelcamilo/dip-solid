@@ -1,0 +1,13 @@
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/bin/Debug/netcoreapp3.1/Dip.Solid.App
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/bin/Debug/netcoreapp3.1/Dip.Solid.App.deps.json
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/bin/Debug/netcoreapp3.1/Dip.Solid.App.runtimeconfig.json
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/bin/Debug/netcoreapp3.1/Dip.Solid.App.runtimeconfig.dev.json
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/bin/Debug/netcoreapp3.1/Dip.Solid.App.dll
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/bin/Debug/netcoreapp3.1/Dip.Solid.App.pdb
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/obj/Debug/netcoreapp3.1/Dip.Solid.App.csprojAssemblyReference.cache
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/obj/Debug/netcoreapp3.1/Dip.Solid.App.AssemblyInfoInputs.cache
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/obj/Debug/netcoreapp3.1/Dip.Solid.App.AssemblyInfo.cs
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/obj/Debug/netcoreapp3.1/Dip.Solid.App.dll
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/obj/Debug/netcoreapp3.1/Dip.Solid.App.pdb
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/bin/Debug/netcoreapp3.1/SimpleInjector.dll
+/home/samuel/Github/dip-solid/Dip.Solid/src/Dip.Solid.App/obj/Debug/netcoreapp3.1/Dip.Solid.App.csproj.CopyComplete
